@@ -1,2 +1,2 @@
-# fix-de-bug
+# fix-the-bug
 PHP &amp; DB
